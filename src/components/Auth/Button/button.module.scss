@@ -1,5 +1,6 @@
 .formButton {
     width: 100%;
+    font-family: 'Vazirmatn';
     background: #4caf50;
     color: white;
     border: none;
@@ -16,6 +17,6 @@
     @media (max-width: 600px) {
         font-size: 14px;
         padding: 10px;
-        width: 320px;
+        width: 228px;
     }
 }
